@@ -8,3 +8,5 @@ Play with branches
 ## Switch to test-branch:
 
 `git checkout test-branch`
+
+(We deleted the main branch edits)
